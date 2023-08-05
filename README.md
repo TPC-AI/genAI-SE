@@ -48,6 +48,10 @@ We will spend much time reading and discussing key papers in this area. In addit
 
 * TBD
 
+### Scientifc discovrery and AI
+
+* [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2), Hanchen Wang et al., 2023.
+
 ### Training data considerations
 
 * [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/pdf/2101.00027.pdf), Leo Gao et al., 2020.
