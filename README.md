@@ -25,15 +25,51 @@ Key topics include:
 By the end of the course, students will have an understanding of how to implement and use generative AI models, how to apply them to problems in science and engineering, and how to navigate the ethical considerations that arise with the use of AI in these fields.
 
 
-## Applications
+## Practical 
+
+We will spend much time reading and discussing key papers in this area. In addition, the course will have a strong practical component, with students working to train models, apply them to science and engineering problems, evaluate their performance, etc.
 
 
-## Potential topics with relevant readings
+
+## *Potential* topics with relevant readings
+
+(A work in progress!)
+
+### Concepts 
 
 
+
+### State of the art in large language models
+
+
+
+### Scaling 
+
+* [Scaling TransNormer to 175 Billion Parameters](https://arxiv.org/pdf/2307.14995.pdf), Zhen Qin et al., 2023.
 
 
 ### Memorization and copyright protection
 
 * [On Provable Copyright Protection for Generative Models](https://arxiv.org/pdf/2302.10870.pdf), Nikhil Vyas et al., 2023.
 * [Emergent and Predictable Memorization in Large Language Models](https://arxiv.org/pdf/2304.11158.pdf), Stella Biderman et al., 2023.
+
+### Applications in materials science
+
+* [GPT-4 Reticular Chemist for MOF Discovery](https://arxiv.org/abs/2306.14915), Zhiling Zheng et al., 2023 
+* [ChatMOF: An Autonomous AI System for Predicting and Generating Metal-Organic Frameworks](https://arxiv.org/abs/2308.01423), Yeonghun Kang et al., 2023.
+
+
+## Autonomous LLM-based agents
+
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+
+## Risks
+
+* [Can large language models democratize access to dual-use biotechnology?](https://arxiv.org/pdf/2306.03809.pdf), Emily Soice et al., 2023.
+* [Harms from Increasingly Agentic Algorithmic Systems](https://arxiv.org/pdf/2302.10329.pdf), Alan Chan et al., 2023.
+
+### Tabular data
+
+* [TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning](https://arxiv.org/pdf/2307.14338.pdf), Yury Gorishniy et al., 2023
+
+
