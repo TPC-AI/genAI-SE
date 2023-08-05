@@ -42,6 +42,10 @@ We will spend much time reading and discussing key papers in this area. In addit
 ### State of the art in large language models
 
 
+### Training data considerations
+
+* [The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only](https://arxiv.org/pdf/2306.01116.pdf), Guilherme Penedo et al., 2023.
+* [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644.pdf), Suriya Gunasekar et al., 2023.
 
 ### Scaling 
 
@@ -55,13 +59,17 @@ We will spend much time reading and discussing key papers in this area. In addit
 
 ### Applications in materials science
 
-* [GPT-4 Reticular Chemist for MOF Discovery](https://arxiv.org/abs/2306.14915), Zhiling Zheng et al., 2023 
+* [GPT-4 Reticular Chemist for MOF Discovery](https://arxiv.org/abs/2306.14915) and [ChatGPT Chemistry Assistant for Text Mining and Prediction of MOF Synthesis](https://arxiv.org/pdf/2306.11296.pdf), Zhiling Zheng et al., 2023.
 * [ChatMOF: An Autonomous AI System for Predicting and Generating Metal-Organic Frameworks](https://arxiv.org/abs/2308.01423), Yeonghun Kang et al., 2023.
 
 
 ## Autonomous LLM-based agents
 
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+
+## Robotics
+
+* [RoboCat: A Self-Improving Foundation Agent for Robotic Manipulation](https://arxiv.org/pdf/2306.11706.pdf), Konstantinos Bousmalis et al., 2023.
 
 ## Risks
 
