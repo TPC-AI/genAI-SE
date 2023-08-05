@@ -37,6 +37,7 @@ We will spend much time reading and discussing key papers in this area. In addit
 
 ### Concepts 
 
+* [A jargon-free explanation of how AI large language models work](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/), Timothy Lee and Sean Trott, 7/31/2023
 * [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf?utm_source=morning_brew), Rishi Bommasan et al., 2020.
 * [4 Charts That Show Why AI Progress Is Unlikely to Slow Down](https://time.com/6300942/ai-progress-charts/), Time, August 2, 2023.
 
@@ -99,4 +100,5 @@ We will spend much time reading and discussing key papers in this area. In addit
 
 ## Tools
 
-
+* [minGPT](https://github.com/karpathy/minGPT) with [accompanying video](https://www.youtube.com/watch?v=kCc8FmEb1nY).
+* [Dive into Deep Learning](http://d2l.ai) -- online textbook with notebooks.
