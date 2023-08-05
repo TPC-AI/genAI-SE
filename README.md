@@ -70,7 +70,7 @@ We will spend much time reading and discussing key papers in this area. In addit
 
 ### Autonomous LLM-based agents
 
-* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+* [Auto-GPT: An Autonomous GPT-4 Experiment](https://github.com/Significant-Gravitas/Auto-GPT)
 
 ### Robotics
 
