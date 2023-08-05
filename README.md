@@ -27,8 +27,11 @@ By the end of the course, students will have an understanding of how to implemen
 
 ## Practical 
 
-We will spend much time reading and discussing key papers in this area. In addition, the course will have a strong practical component, with students working to train models, apply them to science and engineering problems, evaluate their performance, etc.
-
+We will spend much time reading and discussing key papers in this area. In addition, the course will have a strong practical component, with students working to train models, apply them to science and engineering problems, evaluate their performance, etc. Initial ideas of things to cover:
+* Experiment with use of LLMs for simple scientific problems.
+* LLM definition and training: Define and train a small LLM from scratch.
+* Fine-tuning/specialization for various tasks.
+* Extend AutoGPT or similar for a scientific problem.
 
 
 ## *Potential* topics with relevant readings
