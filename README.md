@@ -48,7 +48,7 @@ We will spend much time reading and discussing key papers in this area. In addit
 
 * TBD
 
-### Scientifc discovrery and AI
+### Scientific discovery and AI
 
 * [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2), Hanchen Wang et al., 2023.
 
