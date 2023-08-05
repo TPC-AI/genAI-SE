@@ -72,6 +72,9 @@ We will spend much time reading and discussing key papers in this area. In addit
 * [GPT-4 Reticular Chemist for MOF Discovery](https://arxiv.org/abs/2306.14915) and [ChatGPT Chemistry Assistant for Text Mining and Prediction of MOF Synthesis](https://arxiv.org/pdf/2306.11296.pdf), Zhiling Zheng et al., 2023.
 * [ChatMOF: An Autonomous AI System for Predicting and Generating Metal-Organic Frameworks](https://arxiv.org/abs/2308.01423), Yeonghun Kang et al., 2023.
 
+### Optimizations
+
+* [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/pdf/2305.14314.pdf), Tim Dettmers et al., 2023.
 
 ### Autonomous LLM-based agents
 
@@ -89,5 +92,9 @@ We will spend much time reading and discussing key papers in this area. In addit
 ### Tabular data
 
 * [TabR: Unlocking the Power of Retrieval-Augmented Tabular Deep Learning](https://arxiv.org/pdf/2307.14338.pdf), Yury Gorishniy et al., 2023
+
+### Limitations
+
+* [Reclaiming AI as a theoretical tool for cognitive science](https://psyarxiv.com/4cbuv), Iris van Rooij et al. (2023).
 
 
