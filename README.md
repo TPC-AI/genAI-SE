@@ -37,19 +37,23 @@ We will spend much time reading and discussing key papers in this area. In addit
 
 ### Concepts 
 
-
+* [On the Opportunities and Risks of Foundation Models](https://arxiv.org/pdf/2108.07258.pdf?utm_source=morning_brew), Rishi Bommasan et al., 2020.
+* TBD
 
 ### State of the art in large language models
 
+* TBD
 
 ### Training data considerations
 
+* [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/pdf/2101.00027.pdf), Leo Gao et al., 2020.
 * [The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only](https://arxiv.org/pdf/2306.01116.pdf), Guilherme Penedo et al., 2023.
 * [Textbooks Are All You Need](https://arxiv.org/pdf/2306.11644.pdf), Suriya Gunasekar et al., 2023.
 
 ### Scaling 
 
 * [Scaling TransNormer to 175 Billion Parameters](https://arxiv.org/pdf/2307.14995.pdf), Zhen Qin et al., 2023.
+* TBD
 
 
 ### Memorization and copyright protection
@@ -57,21 +61,22 @@ We will spend much time reading and discussing key papers in this area. In addit
 * [On Provable Copyright Protection for Generative Models](https://arxiv.org/pdf/2302.10870.pdf), Nikhil Vyas et al., 2023.
 * [Emergent and Predictable Memorization in Large Language Models](https://arxiv.org/pdf/2304.11158.pdf), Stella Biderman et al., 2023.
 
-### Applications in materials science
+### Applications in chemistry and materials science
 
+* [Generative Models as an Emerging Paradigm in the Chemical Sciences](https://pubs.acs.org/doi/10.1021/jacs.2c13467), Dylan M. Anstine et al., 2023.
 * [GPT-4 Reticular Chemist for MOF Discovery](https://arxiv.org/abs/2306.14915) and [ChatGPT Chemistry Assistant for Text Mining and Prediction of MOF Synthesis](https://arxiv.org/pdf/2306.11296.pdf), Zhiling Zheng et al., 2023.
 * [ChatMOF: An Autonomous AI System for Predicting and Generating Metal-Organic Frameworks](https://arxiv.org/abs/2308.01423), Yeonghun Kang et al., 2023.
 
 
-## Autonomous LLM-based agents
+### Autonomous LLM-based agents
 
 * [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
 
-## Robotics
+### Robotics
 
 * [RoboCat: A Self-Improving Foundation Agent for Robotic Manipulation](https://arxiv.org/pdf/2306.11706.pdf), Konstantinos Bousmalis et al., 2023.
 
-## Risks
+### Risks
 
 * [Can large language models democratize access to dual-use biotechnology?](https://arxiv.org/pdf/2306.03809.pdf), Emily Soice et al., 2023.
 * [Harms from Increasingly Agentic Algorithmic Systems](https://arxiv.org/pdf/2302.10329.pdf), Alan Chan et al., 2023.
