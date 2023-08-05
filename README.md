@@ -55,6 +55,11 @@ We will spend much time reading and discussing key papers in this area. In addit
 * [Scaling TransNormer to 175 Billion Parameters](https://arxiv.org/pdf/2307.14995.pdf), Zhen Qin et al., 2023.
 * TBD
 
+### Reinforcement Learning with Human Feedback
+
+* [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2307.15217.pdf), Stephen Casper et al., 2023.
+* [DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales](https://arxiv.org/pdf/2308.01320.pdf), Zhewei Yao et al., 2023.
+
 
 ### Memorization and copyright protection
 
