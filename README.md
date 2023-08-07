@@ -4,8 +4,10 @@ In this graduate-level course, we will investigate large generative AI models fo
 
 * **Generative**: The model can produce new content based on patterns and structures learned during training. In the science and engineering context, it could generate predictions about untested physical phenomena, propose new design configurations for a mechanical system, or simulate the performance of a new material, to name a few examples.
 * **AI model**: It uses machine learning algorithms that the model uses to learn from data and generate outputs. These algorithms are designed to identify patterns and make predictions or decisions without being explicitly programmed to perform a specific task.
-* **Large**: In this context, "large" refers to the number of parameters in the model. The parameters are elements of the model that are learned from the data during training. A large model has many parameters, allowing it to learn more complex patterns, but also requiring more computational resources to train and use.
+* **Large**: The model has many parameters, i.e., elements that are learned from the data during training. More parameters allow the model to learn more complex patterns, but also requires more computational resources to train and use.
 * **For Science and Engineering**: Training data might include scientific articles, textbooks, lab reports, CAD models, numerical simulation data, experimental data, or any other type of data that is relevant to these fields. Training the model on this type of data equips it to generate outputs that are relevant to scientific and engineering tasks.
+
+This class is relevant to the work of the Trillion Parameter Consortium established recently to explore such topics, and to the AuroraGPT project at Argonne which is planning development of a trillion-parameter generative AI model for science, to be trained on Argonne's [Aurora supercomputer](https://www.alcf.anl.gov/aurora).
   
 <!--Such models may be useful in accelerating research, generating novel hypotheses, optimizing designs, and much more.-->
 
