@@ -73,6 +73,7 @@ We will spend much time reading and discussing key papers in this area. In addit
 
 * [On Provable Copyright Protection for Generative Models](https://arxiv.org/pdf/2302.10870.pdf), Nikhil Vyas et al., 2023.
 * [Emergent and Predictable Memorization in Large Language Models](https://arxiv.org/pdf/2304.11158.pdf), Stella Biderman et al., 2023.
+* [Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4](https://arxiv.org/pdf/2305.00118v1.pdf), Kent K. Chang et al., 2023.
 
 ### Applications in chemistry and materials science
 
