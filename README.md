@@ -7,7 +7,8 @@ In this graduate-level course, we will investigate large generative AI models fo
 * **Large**: The model has many parameters, i.e., elements that are learned from the data during training. More parameters allow the model to learn more complex patterns, but also requires more computational resources to train and use.
 * **For Science and Engineering**: Training data might include scientific articles, textbooks, lab reports, CAD models, numerical simulation data, experimental data, or any other type of data that is relevant to these fields. Training the model on this type of data equips it to generate outputs that are relevant to scientific and engineering tasks.
 
-This class is relevant to the work of the Trillion Parameter Consortium established recently to explore such topics, and to the AuroraGPT project at Argonne which is planning development of a trillion-parameter generative AI model for science, to be trained on Argonne's [Aurora supercomputer](https://www.alcf.anl.gov/aurora).
+This course is directly relevant to the work of the Trillion Parameter Consortium established recently to explore such topics, which engages researchers worldwide seeking to apply generative AI to scientific problems.
+Closer to home, it will connect to the AuroraGPT project at Argonne, which is developing a trillion-parameter generative AI model for science, to be trained on Argonne's [Aurora supercomputer](https://www.alcf.anl.gov/aurora).
   
 <!--Such models may be useful in accelerating research, generating novel hypotheses, optimizing designs, and much more.-->
 
