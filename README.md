@@ -10,7 +10,7 @@ In this graduate-level course, we will investigate large generative AI models fo
 This course is directly relevant to the work of the Trillion Parameter Consortium established recently to explore such topics, which engages researchers worldwide seeking to apply generative AI to scientific problems.
 Closer to home, it will connect to the AuroraGPT project at Argonne, which is developing a trillion-parameter generative AI model for science, to be trained on Argonne's [Aurora supercomputer](https://www.alcf.anl.gov/aurora).
 
-The course will take place as CMSC 35200-1: Deep Learning Systems in the fall quarter of 2023 at the University of Chicago, on Tuesdays and Thursdays, 3:30-4:50pm.
+The course will take place as **CMSC 35200-1: Deep Learning Systems** in the fall quarter of 2023 at the University of Chicago, on Tuesdays and Thursdays, 3:30-4:50pm. For more information, please contact Profs [Ian Foster](mailto:foster@uchicago.edu) and [Rick Stevens](mailto:stevens@cs.uchicago.edu).
   
 <!--Such models may be useful in accelerating research, generating novel hypotheses, optimizing designs, and much more.-->
 
