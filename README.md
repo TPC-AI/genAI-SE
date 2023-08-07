@@ -1,14 +1,13 @@
 # Large-scale Generative AI for Science and Engineering
 
-In this graduate-level course, we will investigate large generative AI models for scientific and engineering problems: machine learning models that are specifically trained on scientific and engineering data. They can generate outputs, such as hypotheses, designs, or simulations, based on patterns learned from those data. In more detail:
+In this graduate-level course, we will investigate large generative AI models for scientific and engineering problems: machine learning models that can generate outputs, such as hypotheses, designs, or simulations, based on patterns learned from scientific and engineering data. They. In more detail:
 
 * **Generative**: The model can produce new content based on patterns and structures learned during training. In the science and engineering context, it could generate predictions about untested physical phenomena, propose new design configurations for a mechanical system, or simulate the performance of a new material, to name a few examples.
 * **AI model**: It uses machine learning algorithms that the model uses to learn from data and generate outputs. These algorithms are designed to identify patterns and make predictions or decisions without being explicitly programmed to perform a specific task.
 * **Large**: The model has many parameters, i.e., elements that are learned from the data during training. More parameters allow the model to learn more complex patterns, but also requires more computational resources to train and use.
 * **For Science and Engineering**: Training data might include scientific articles, textbooks, lab reports, CAD models, numerical simulation data, experimental data, or any other type of data that is relevant to these fields. Training the model on this type of data equips it to generate outputs that are relevant to scientific and engineering tasks.
 
-This course is directly relevant to the work of the Trillion Parameter Consortium established recently to explore such topics, which engages researchers worldwide seeking to apply generative AI to scientific problems.
-Closer to home, it will connect to the AuroraGPT project at Argonne, which is developing a trillion-parameter generative AI model for science, to be trained on Argonne's [Aurora supercomputer](https://www.alcf.anl.gov/aurora).
+This course is directly relevant to the AuroraGPT project, which is developing a trillion-parameter generative AI model to be trained on Argonne's new 64,000-GPU [Aurora supercomputer](https://www.alcf.anl.gov/aurora). It also connects to the work of the Trillion Parameter Consortium, which engages researchers worldwide seeking to apply generative AI to scientific problems.
 
 The course will take place as **CMSC 35200-1: Deep Learning Systems** in the fall quarter of 2023 at the University of Chicago, on Tuesdays and Thursdays, 3:30-4:50pm. For more information, please contact Profs [Ian Foster](mailto:foster@uchicago.edu) and [Rick Stevens](mailto:stevens@cs.uchicago.edu).
   
