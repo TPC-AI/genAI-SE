@@ -113,3 +113,5 @@ We will spend much time reading and discussing key papers in this area. In addit
 * [minGPT](https://github.com/karpathy/minGPT) with [accompanying video](https://www.youtube.com/watch?v=kCc8FmEb1nY).
 * [Dive into Deep Learning](http://d2l.ai) -- online textbook with notebooks.
 * [ChatALL: Chat with ALL AI Bots Concurrently, Discover the Best](https://github.com/sunner/ChatALL)
+
+This site is accessible at [https://tpc-ai.github.io/genAI-SE/](https://tpc-ai.github.io/genAI-SE/).
