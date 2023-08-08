@@ -50,7 +50,7 @@ We will spend much time reading and discussing key papers in this area. In addit
 
 ### State of the art in large language models
 
-* test [rick]
+* test [rick, need to add. Attention paper, GPT-3 and GPT-4 paper, Claude Paper, Falcon and Llama 2 papers]
 
 ### Scientific discovery and AI
 
@@ -67,9 +67,17 @@ We will spend much time reading and discussing key papers in this area. In addit
 * [Scaling TransNormer to 175 Billion Parameters](https://arxiv.org/pdf/2307.14995.pdf), Zhen Qin et al., 2023.
 * TBD
 
+### Model Evaluation
+
+*  EluetherAI -- Evaluation harness
+*  HELM paper
+*  BIG paper
+*  Elo cmparison and HF leaderboard
+
 ### Reinforcement Learning with Human Feedback
 
-* [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2307.15217.pdf), Stephen Casper et al., 2023.
+* [Llama Adapter] https://arxiv.org/pdf/2303.16199.pdf
+*  [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/pdf/2307.15217.pdf), Stephen Casper et al., 2023.
 * [DeepSpeed-Chat: Easy, Fast and Affordable RLHF Training of ChatGPT-like Models at All Scales](https://arxiv.org/pdf/2308.01320.pdf), Zhewei Yao et al., 2023.
 
 
