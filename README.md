@@ -92,6 +92,7 @@ We will spend much time reading and discussing key papers in this area. In addit
 ### Autonomous LLM-based agents
 
 * [Auto-GPT: An Autonomous GPT-4 Experiment](https://github.com/Significant-Gravitas/Auto-GPT)
+* [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376), Andres Bran et al., 2023.
 
 ### Robotics
 
