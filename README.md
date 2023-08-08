@@ -50,7 +50,7 @@ We will spend much time reading and discussing key papers in this area. In addit
 
 ### State of the art in large language models
 
-* TBD
+* test [rick]
 
 ### Scientific discovery and AI
 
