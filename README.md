@@ -126,3 +126,14 @@ We will spend much time reading and discussing key papers in this area. In addit
 * [ChatALL: Chat with ALL AI Bots Concurrently, Discover the Best](https://github.com/sunner/ChatALL)
 
 This site is accessible at [https://tpc-ai.github.io/genAI-SE/](https://tpc-ai.github.io/genAI-SE/).
+
+##  A four-stage path to creating a LLM for science
+
+1. **Scientific Data Acquisition and Organization**: Robust data lies at the heart of any sophisticated model. Thus we first must curate large-scale scientific datasets, designing approximately 20 specialized “bundles” across domains like biology/biochemistry, materials/chemistry, physics/cosmology, and climate/environment. By addressing gaps in existing large language models (LLMs) tailored for intricate scientific challenges, our data collection aims to be highly targeted and efficient, enhancing the overall capabilities of our models.
+
+1. **Model Evaluation Suite Development**: With the curated data in place, the second phase centers on constructing expansive model evaluation suites. These suites, tailored to specific dataset collections and subdomains, will validate data and lay the groundwork for model testing. We plan on utilizing current LLMs to shape problems that AuroraGPT can solve, targeting around 1,000 problems for each scientific subdomain, resulting in an infrastructure ready to evaluate models on a staggering 20,000 problem sets.
+
+1. **Model Construction and Performance Analysis**: This pillar is about breathing life into our data through model building. We aim to construct models across diverse scales, from 7B to 1000B, leveraging general texts, code, and niche scientific data. Rigorous testing will be conducted on elite supercomputers Polaris and Aurora, ensuring optimal performance. The setup will harness technologies like Megatron and DeepSpeed to determine the best strategies for parallelism and fine-tuning hardware choices.
+
+1. **Model Refinement and Deployment**: The final phase ensures that our models do not just exist but also thrive in real-world applications. Refinement processes will utilize post-processing tools such as “instruct,” “RLHF,” and “Chat” and might employ pipelines like DeepSpeed RLHF or Alpaca. Automation will be a focus, especially for post-processing and safety checks. As the finishing touch, we plan on launching a Web and API platform for internal testing of AuroraGPT at Argonne before its broader release.
+
